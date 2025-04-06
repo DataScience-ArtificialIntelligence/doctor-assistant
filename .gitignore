@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
-
+android 
+.vscode
+.bundle
+__tests__
 # Xcode
 build/
 *.pbxuser
